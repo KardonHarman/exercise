@@ -1,4 +1,4 @@
-# exercise
+# HACKADEMY
 Hackademy exercise
 
 ### Exercise 1
@@ -14,6 +14,7 @@ for i in range(0,max):
 
 print 'The number is:',result
 ```
+> The number is: 232169
 ### Exercise 2
 > By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.
 > What is the 10 001st prime number?
@@ -42,3 +43,4 @@ def n_prime(n):
 
 print "The 10,001st prime is:",(n_prime(10001))
 ```
+> The 10,001st prime is: 104743
